@@ -1,0 +1,20 @@
+---
+Language: Cpp
+BasedOnStyle: Microsoft
+AccessModifierOffset: -4
+BreakBeforeBinaryOperators: NonAssignment
+BreakConstructorInitializers: BeforeComma
+BreakTemplateDeclarations: Yes
+ColumnLimit: 500
+EmptyLineBeforeAccessModifier: Leave
+InsertBraces: true
+KeepEmptyLines:
+  AtEndOfFile:     false
+  AtStartOfBlock:  false
+  AtStartOfFile:   false
+LineEnding: LF
+PointerAlignment: Left
+ReferenceAlignment: Pointer
+SpaceBeforeCpp11BracedList: true
+...
+

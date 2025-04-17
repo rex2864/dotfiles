@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/home/rex2864/bin/zen/zen %u
+Icon=/home/rex2864/bin/zen/browser/chrome/icons/default/default32.png
+Name=Zen
+Comment=Custom definition for Zen
+Terminal=false
